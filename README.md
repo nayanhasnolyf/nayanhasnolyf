@@ -106,18 +106,8 @@ Built at a 36-hour hackathon — an end-to-end drug discovery platform with **AD
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanhasnolyf&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhasnolyf&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🌱 Currently
 
-- 🔭 Interning at **Market Orbit** — building full-stack web products
 - 📚 Deepening skills in **agentic AI**, **microservices**, and **event-driven architecture**
 - 🎯 Looking for **SWE / full-stack internship** opportunities for 2026–2027
 
