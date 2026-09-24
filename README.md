@@ -89,7 +89,7 @@ Built at a 36-hour hackathon — an end-to-end drug discovery platform with **AD
 
 ## 💼 Experience
 
-**Web Development Intern** @ [Market Orbit](https://marketorbit.in) *(May 2026 – Present)*
+**Web Development Intern** @ [Market Orbit](https://marketorbit.in) *(May 2026 – June 2026)*
 - Built a full responsive marketing website with Next.js, React, TypeScript & Tailwind CSS
 - Developed animated UI sections: service cards, marquees, scroll-reveal effects, testimonials
 - Contributed backend work with Express, Prisma, and PostgreSQL schema design
